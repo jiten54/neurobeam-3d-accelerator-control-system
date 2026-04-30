@@ -1,3 +1,5 @@
+<img width="1920" height="853" alt="Screenshot 2026-04-30 095928" src="https://github.com/user-attachments/assets/f3bcae34-bd25-43ba-b3ce-7e0a09cfe86f" />
+
 # NeuroBeam: Real-Time Scientific Control Platform
 
 NeuroBeam is a mission-critical visualization and control system designed for particle accelerator operations. It provides a multi-layer view of high-frequency telemetry, topological dependencies, and predictive AI diagnostics.
