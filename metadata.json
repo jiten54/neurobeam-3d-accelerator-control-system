@@ -1,0 +1,6 @@
+{
+  "name": "NeuroBeam: Real-Time Particle Control",
+  "description": "Advanced scientific control platform for 3D visualization, topological analysis, and real-time telemetry of particle accelerator systems.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["3D Visualization", "Real-Time Telemetry", "Graph Topology", "Anomaly Prediction"]
+}
